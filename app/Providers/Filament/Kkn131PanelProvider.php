@@ -26,6 +26,7 @@ class Kkn131PanelProvider extends PanelProvider
             ->default()
             ->id('kkn131')
             ->path('')
+            ->brandName('KKN 131')
             ->login()
             ->colors([
                 'primary' => Color::Amber,
